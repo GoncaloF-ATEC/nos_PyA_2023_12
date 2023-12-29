@@ -9,6 +9,7 @@ sessao = HTMLSession()
 # fazer faz a requisição (get do site )
 r = sessao.get('https://catalogo.anqep.gov.pt/ufcdDetalhe/9039')
 
+
 r.html.render(sleep=5)
 
 soup = BeautifulSoup(r.html.html, "html.parser")
