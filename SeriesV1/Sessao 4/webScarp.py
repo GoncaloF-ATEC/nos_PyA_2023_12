@@ -146,3 +146,4 @@ print(process(contAll))
   ['Largada'], ['Montaria'], ['Batida'], ['De espera'], ['De salto'], ['Outras'], ['Troféus'], ['Fiscalização nas jornadas de caça'], ['Boas práticas de segurança, higiene e saúde']]
 
 """
+#%%
